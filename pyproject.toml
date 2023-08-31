@@ -8,6 +8,9 @@ packages = [{include = "django_template"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+django = "^4.2.4"
+django-split-settings = "^1.2.0"
+pyyaml = "^6.0.1"
 
 
 [build-system]
