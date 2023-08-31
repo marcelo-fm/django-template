@@ -13,6 +13,9 @@ django-split-settings = "^1.2.0"
 pyyaml = "^6.0.1"
 
 
+[tool.poetry.group.dev.dependencies]
+colorlog = "^6.7.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
