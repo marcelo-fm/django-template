@@ -172,3 +172,5 @@ celerybeat-schedule
 celerybeat.pid
 
 # SageMath
+
+**project/settings/setings.dev.py
